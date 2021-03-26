@@ -1,4 +1,9 @@
-# root2
+# Air Lcl
 
-#Header 1
-## Sub Header
+## Background
+
+## OnBoarding/How to 
+### How to write an article
+### Kramdown
+A [link](http://kramdown.gettalong.org)
+to the kramdown homepage.
