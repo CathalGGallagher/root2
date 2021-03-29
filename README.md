@@ -1,5 +1,5 @@
 ---
-title:main Page
+title: main Page
 
 ---
 

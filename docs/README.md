@@ -1,12 +1,12 @@
 ---
-title:Test 1
+title: Test 1
 
 ---
 
 # Air Lcl
 
 
-
+<!-->
 {% if page.show_sidebar %}
   <div class="sidebar">
     <ul>
@@ -19,7 +19,7 @@ title:Test 1
     </ul>
 
   </div>
-{% endif %}
+{% endif %} -->
 
 
 ## Background
