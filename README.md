@@ -1,8 +1,4 @@
----
-title: main Page
-
----
 
 
-# root2
-The main header
+
+# The main header
