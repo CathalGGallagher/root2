@@ -1,8 +1,4 @@
----
 
-show_sidebar: true
-
----
 
 
 
