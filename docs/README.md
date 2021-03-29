@@ -12,7 +12,7 @@ to the kramdown homepage.
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      <p> {{ post.summary }}
+      <p> {{ post.summary }} </p>
     </li>
   {% endfor %}
 </ul>
