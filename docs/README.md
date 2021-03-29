@@ -1,8 +1,4 @@
----
 
-title: "Sub Header"
-
----
 
 # Air Lcl
 Air and LCL is Awesome
