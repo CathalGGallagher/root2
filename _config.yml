@@ -5,6 +5,9 @@ plugins:
 
 excerpt_separator: <!--more-->
 
+
+show_sidebar: true
+
 relative_links:
   enabled: true
   collections: true

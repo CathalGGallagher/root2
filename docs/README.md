@@ -1,5 +1,22 @@
 # Air Lcl
 
+
+
+{% if page.show_sidebar %}
+  <div class="sidebar">
+    <ul>
+    {% for post in site.posts %}
+        <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        {{ post.excerpt }} 
+        </li>
+    {% endfor %}
+    </ul>
+
+  </div>
+{% endif %}
+
+
 ## Background
 
 ## OnBoarding/How to 
