@@ -1,6 +1,4 @@
----
-category: test
----
+
 
 # Air Lcl
 Air and LCL is Awesome
