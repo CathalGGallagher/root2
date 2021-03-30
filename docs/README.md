@@ -5,8 +5,9 @@
 # Air Lcl
 Air and LCL is Awesome
 
-<!-->
+
 {% if page.show_sidebar %}
+### found sidebar
   <div class="sidebar">
     <ul>
     {% for post in site.posts %}
@@ -18,7 +19,7 @@ Air and LCL is Awesome
     </ul>
 
   </div>
-{% endif %} -->
+{% endif %}
 
 
 ## Background
