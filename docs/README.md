@@ -4,7 +4,7 @@
 
 # Air Lcl
 Air and LCL is Awesome
-### before  sidebar
+
 
 <!--
 {% if page.show_sidebar %}
