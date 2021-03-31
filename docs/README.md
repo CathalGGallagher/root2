@@ -35,18 +35,12 @@ to the kramdown homepage.
   <ul>
     {% for post in tag[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+       {{ post.excerpt }} 
     {% endfor %}
   </ul>
 {% endfor %}
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-       {{ post.excerpt }} 
-    </li>
-  {% endfor %}
-</ul> 
+
 
 # Air /LCL Integration
 
