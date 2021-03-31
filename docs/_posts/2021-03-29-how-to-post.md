@@ -2,7 +2,7 @@
 
 layout: post
 title: "how to post"
-category: help
+tag: help
 ---
 
 # How to Post again
