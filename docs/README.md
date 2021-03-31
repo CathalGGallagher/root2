@@ -48,3 +48,8 @@ to the kramdown homepage.
   {% endfor %}
 </ul> 
 
+# Air /LCL Integration
+
+| Application | Platform | Business Description/Summary | Contact | Interface type |  Definition |
+|:--------|:-------:|--------:|:--------|:-------:|--------:|
+| LIFT | TBD | US e-Invoicing | Vincente Naranjo | TBD | unknown |
