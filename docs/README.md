@@ -40,7 +40,7 @@ to the kramdown homepage.
   </ul>
 {% endfor %}
 
-test [post](./2021/03/09/how-to-post.html)
+test [post](./post/2021/03/09/how-to-post.html)
 
 # Air /LCL Integration
 
