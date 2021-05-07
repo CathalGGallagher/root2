@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: default
 title: "how to post"
 tag: help
 ---
