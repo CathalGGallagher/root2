@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: "Integration List"
 tag: Architecture

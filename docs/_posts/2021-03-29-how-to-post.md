@@ -1,6 +1,5 @@
 ---
-
-layout: single
+layout: post
 title: "how to post"
 tag: help
 ---
@@ -8,7 +7,8 @@ tag: help
 # How to Post again
 
 This is my first Jeykll post.
-<!--more-->
+
+
  MORE TEST
 
 
