@@ -34,12 +34,16 @@ to the kramdown homepage.
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
        {{ post.excerpt }} 
     {% endfor %}
   </ul>
 {% endfor %}
 
-test [post](./post/2021/03/29/how-to-post.html)
+
+test [post](./2021/03/29/how-to-post.html)
+
+
+
 
 
