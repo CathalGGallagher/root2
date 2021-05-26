@@ -40,10 +40,6 @@ to the kramdown homepage.
   </ul>
 {% endfor %}
 
-test [post](./post/2021/03/09/how-to-post.html)
+test [post](./post/2021/03/29/how-to-post.html)
 
-# Air /LCL Integration
 
-| Application | Platform | Business Description/Summary | Contact | Interface type |  Definition |
-|:--------|:-------:|--------:|:--------|:-------:|--------:|
-| LIFT | TBD | US e-Invoicing | Vincente Naranjo | TBD | unknown |
